@@ -11,3 +11,6 @@ git clone Project URL, after clone use yarn command to install dependencies
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+####hosted project link
+https://cripto-analitc.vercel.app/
